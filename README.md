@@ -1,5 +1,9 @@
 ### 01-fundamentos-nodejs-desafio
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/60658855/230261832-7989df92-e354-49af-8c45-dbaf9ed149d2.jpeg" width="500px"/>
+</p>
+
 Neste desafio fui desafiado a criar um servidor Node.js no padrão CRUD para cadastro de tasks com id único, titulo, descrição, data de criação, data de edição e data de conclusão (caso concluida), porém sem usar bibliotecas externas e sim apenas as api's nativas do node. 
 
 Foi uma experiência muito enriquecedora e pude aprender muito como o node trabalha "por baixo dos panos" nas bibliotecas mais usadas no mercado hoje. Isso traz um contexto ótimo para resolução de problemas, encontrar causas de possiveis bugs epara criação de ferramentas no futuro.
